@@ -200,7 +200,7 @@ For the optional AI functionality:
 You do **not** need Ollama to run the basic application.
 
 ---
-
+# Deployed Link - https://detour-xqfa.onrender.com/
 # running DETOUR locally
 
 ## 1. clone the repository
